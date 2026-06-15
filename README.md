@@ -2,15 +2,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SriKrishnaKalyan&label=Profile%20Views&color=0e75b6&style=flat" alt="SriKrishnaKalyan" />
     <img src="https://img.shields.io/github/followers/SriKrishnaKalyan?label=Followers&style=social" alt="GitHub Followers" />
-</p>p>
+</p>
 
 <!-- SECTION A: ANIMATED HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Sri+Krishna+Kalyan+%F0%9F%91%8B;ML+Engineer+%7C+Robotics+%26+Computer+Vision;Building+Intelligent+Systems+That+Ship;Edge+AI+%7C+Autonomous+Systems+%7C+Deep+Learning" alt="Typing SVG" />
-</p>p>
+</p>
 
-<h1 align="center">Sri Krishna Kalyan Bandaru</h1>h1>
-<h3 align="center">🤖 ML Engineer | Computer Vision • Robotics • Edge AI • Autonomous Systems</h3>h3>
+<h1 align="center">Sri Krishna Kalyan Bandaru</h1>
+<h3 align="center">🤖 ML Engineer | Computer Vision • Robotics • Edge AI • Autonomous Systems</h3>
 
 <br/>
 
@@ -81,17 +81,17 @@ I've shipped CV systems for infrastructure inspection, autonomous UAV navigation
           <p align="center">
             <a href="https://www.linkedin.com/in/sri-krishna-kalyan-bandaru-766bb112a/">
                 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-            </a>a>
+            </a>
               <a href="https://srikrishnakalyan-portfolio.vercel.app/">
                   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-              </a>a>
+              </a>
                 <a href="mailto:srikrishnakalyan5@gmail.com">
                     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-                </a>a>
+                </a>
                   <a href="https://github.com/SriKrishnaKalyan">
                       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-                  </a>a>
-          </p>p>
+                  </a>
+          </p>
 
           <br/>
 
@@ -101,11 +101,11 @@ I've shipped CV systems for infrastructure inspection, autonomous UAV navigation
           <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=SriKrishnaKalyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
               <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriKrishnaKalyan&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%"/>
-          </p>p>
+          </p>
 
           <p align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriKrishnaKalyan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
-          </p>p>
+          </p>
 
           <br/>
 
@@ -114,7 +114,7 @@ I've shipped CV systems for infrastructure inspection, autonomous UAV navigation
 
           <p align="center">
             <img src="https://github-profile-trophy.vercel.app/?username=SriKrishnaKalyan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-          </p>p>
+          </p>
 
           <br/>
 
@@ -123,7 +123,7 @@ I've shipped CV systems for infrastructure inspection, autonomous UAV navigation
 
           <p align="center">
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriKrishnaKalyan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
-          </p>p>
+          </p>
 
           <br/>
 
@@ -135,19 +135,19 @@ I've shipped CV systems for infrastructure inspection, autonomous UAV navigation
           <p align="center">
             <a href="https://www.linkedin.com/in/sri-krishna-kalyan-bandaru-766bb112a/">
                 <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>a>
+            </a>
               <a href="https://srikrishnakalyan-portfolio.vercel.app/">
                   <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-              </a>a>
+              </a>
                 <a href="mailto:srikrishnakalyan5@gmail.com">
                     <img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-                </a>a>
-          </p>p>
+                </a>
+          </p>
 
           <p align="center">
-            <i>"I build ML systems that work in the real world — not just on benchmarks."</i>i>
-          </p>p>
+            <i>"I build ML systems that work in the real world — not just on benchmarks."</i>
+          </p>
           
           <p align="center">
             <img src="https://komarev.com/ghpvc/?username=SriKrishnaKalyan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-          </p>p></i>
+          </p>
